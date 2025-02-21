@@ -1,6 +1,6 @@
 [project]
 name = "images-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Kenneth Lambert's image processing library (UNOFFICIAL)"
 readme = "README.md"
 maintainers = [

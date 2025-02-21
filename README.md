@@ -19,7 +19,7 @@ pip install images-py
 
 ## Feedback:
 
-For feedback on the original BreezyPythonGUI library, please contact Ken Lambert at lambertk@wlu.edu.
+For feedback on the original `images` library, please contact Ken Lambert at lambertk@wlu.edu.
 
 ## License:
 
